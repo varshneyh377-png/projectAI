@@ -105,8 +105,12 @@ cd Loan-Approval-Prediction
 ```bash
 pip install -r requirements.txt
 ```
-
-### 3. Run the Streamlit Application
+### 3. Start the FastAPI Backend
+Open a terminal in the project directory and run
+```bash
+uvicorn app:app --reload
+```
+### 4. Run the Streamlit Application
 
 ```bash
 streamlit run app.py
