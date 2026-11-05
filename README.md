@@ -44,6 +44,8 @@ The following models were implemented:
 | Logistic Regression | 85.5% | 84.3% | 97.7% | 90.5% |
 | KNN | 82.3% | 83.7% | 93.2% | 88.2% |
 | SVM | 85.5% | 84.3% | 97.7% | 90.5% |
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/2f953f5a-0dc0-41cc-a598-c87efe2ee212" />
+
 
 SVM was retained as the final model for the Streamlit application.
 
@@ -127,7 +129,7 @@ This project is developed for educational purposes only. Predictions are based o
 
 ## 👩‍💻 Author
 
-Your Name
+Himanshi Varshney
 
 ## 📄 License
 
