@@ -113,10 +113,13 @@ streamlit run app.py
 The application will open in your browser.
 
 ## 📈 Results
+<img width="1808" height="814" alt="Screenshot 2026-11-05 100045" src="https://github.com/user-attachments/assets/044bde9a-454c-44a1-af14-84a7a2dea0f0" />
+
 
 Logistic Regression and SVM achieved the highest accuracy of 85.5%, while KNN achieved 82.3%.
 
 The results demonstrate the application of machine learning classification algorithms to loan approval prediction.
+
 
 ## ⚠️ Disclaimer
 
